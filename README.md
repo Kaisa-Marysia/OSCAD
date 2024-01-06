@@ -1,2 +1,2 @@
 # OSCAD
-3D Models created with Open SCAD
+In this repository I share my Open SCAD Files, for generative modells.
